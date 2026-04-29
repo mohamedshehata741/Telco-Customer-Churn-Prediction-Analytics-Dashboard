@@ -3,8 +3,8 @@
 An end-to-end Machine Learning project designed to predict customer churn for a telecommunications company. This project features a robust **XGBoost Pipeline** and a real-time **Streamlit Dashboard** for business intelligence and "What-If" analysis.
 
 ### 📊 Project Preview
-![Streamlit Dashboard](dashboard.png)
-![Confusion Matrix](matrix.png)
+![Streamlit Dashboard](streamlit.jpeg)
+![Confusion Matrix](confusion_matrix.jpeg)
 
 ## 🚀 Live Demo Features
 - **Real-time Prediction:** Predict whether a customer will leave or stay based on their profile.
